@@ -1,0 +1,21 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "[Profile Card](https://www.tailwindtoolbox.com/templates/profile-card) is a single page template for use as a user profile website / card created in [Tailwind CSS](https://tailwindcss.com/) by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tailwindtoolbox/Profile-Card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tailwindtoolbox/Profile-Card/issues"
+  },
+  "homepage": "https://github.com/tailwindtoolbox/Profile-Card#readme"
+}
